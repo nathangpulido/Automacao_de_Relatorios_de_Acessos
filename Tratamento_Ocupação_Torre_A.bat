@@ -1,0 +1,5 @@
+python primeiro_tratamento_automacao_populacao_torre_a.py
+python atribuicao_de_andares_aos_funcionarios.py
+python integracao_ao_ContinuumDB_e_atualizacao_funcionarios_gerais_torre_A.py
+python atribuicao_de_andares_aos_funcionarios.py
+pause
