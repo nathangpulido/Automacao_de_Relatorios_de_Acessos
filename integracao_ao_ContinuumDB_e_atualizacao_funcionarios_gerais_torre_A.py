@@ -13,8 +13,8 @@ def execute_query(connection, sublist):
 # Define os parâmetros de conexão com o banco de dados
 server = 'DESKTOP-2L34EIR\SQLEXPRESS'
 database = 'ContinuumDB'
-username = 'sa'
-password = 'Teste@123'
+username = 'xxxx'
+password = 'xxxxx'
 
 # Realiza a tentativa de estabelecer a conexão com o banco de dados
 try:
